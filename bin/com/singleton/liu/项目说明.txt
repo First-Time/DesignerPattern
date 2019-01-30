@@ -1,2 +1,0 @@
-单例模式包含三个文件：MainPane.java、ToolBoxInternalFrame.java、SingletonTest。
-MDIPane.java、MDIPaneTest.java是多文档窗体测试。
